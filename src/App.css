@@ -1,0 +1,33 @@
+@import url("./styles/index.css");
+
+*,
+html,
+body,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+  --conic1: conic-gradient(from 90deg, black, red, black, red, black);
+}
+
+#root {
+  background-color: black;
+  height: 100%;
+}
+
+.main-container {
+  background-color: black;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: .5rem;
+}

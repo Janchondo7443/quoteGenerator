@@ -1,0 +1,9 @@
+.modal-li{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.modal{
+  position: relative;
+  background: transparent;
+}

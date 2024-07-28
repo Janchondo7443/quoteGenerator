@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestionsDelay": 10,
+  "editor.inlineSuggest.showToolbar": "onHover"
+}

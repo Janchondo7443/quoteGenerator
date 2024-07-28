@@ -1,0 +1,6 @@
+export const GET_QUOTES = "GET_QUOTES"
+export const HANDLE_INPUT = "HANDLE_INPUT"
+export const HANDLE_SUBMIT = "HANDLE_SUBMIT"
+export const DELETEPOST = "DELETEPOST"
+export const PREPARE_TO_EDIT = "PREPARE_TO_EDIT"
+export const SUBMIT_EDIT = "SUBMIT_EDIT"
